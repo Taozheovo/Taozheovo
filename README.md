@@ -1,17 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Zachary Tao — Midnight Editorial profile banner" width="100%" />
-</div>
-
-<p align="right"><sub>PERSONAL PROFILE &nbsp; / &nbsp; OPEN NOTEBOOK</sub></p>
-
-## 01 &nbsp; / &nbsp; PROFILE
-
-Hi, I'm **Zachary Tao**.
-
-A space for projects, experiments, and ideas in progress.
-
-<div align="center">
-  <img src="./assets/research-panel.svg" alt="Research — details coming soon" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Zachary Tao — Midnight Editorial profile and research panel" width="100%" />
 </div>
 
 ---

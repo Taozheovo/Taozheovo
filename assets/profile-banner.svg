@@ -1,20 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
-  <title id="title">Zachary Tao — Midnight Editorial</title>
-  <desc id="desc">A black editorial GitHub banner with oversized white typography, hairline rules, and subtle orange and blue light leaks.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="730" viewBox="0 0 1200 730" role="img" aria-labelledby="title desc">
+  <title id="title">Zachary Tao — Profile and Research</title>
+  <desc id="desc">A continuous Midnight Editorial profile graphic combining a bold monochrome name banner with a two-column Research section.</desc>
   <defs>
     <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="66"/></filter>
-    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity=".72"/><stop offset="1" stop-color="#fff" stop-opacity=".12"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#67e8f9"/><stop offset="0.52" stop-color="#818cf8"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity=".48"/></linearGradient>
     <pattern id="grain" width="120" height="120" patternUnits="userSpaceOnUse">
       <circle cx="8" cy="11" r=".6" fill="#fff" opacity=".22"/><circle cx="51" cy="42" r=".5" fill="#fff" opacity=".18"/><circle cx="95" cy="18" r=".55" fill="#fff" opacity=".16"/>
       <circle cx="28" cy="79" r=".5" fill="#fff" opacity=".16"/><circle cx="78" cy="103" r=".6" fill="#fff" opacity=".2"/><circle cx="111" cy="71" r=".5" fill="#fff" opacity=".14"/>
     </pattern>
   </defs>
-  <rect width="1200" height="430" fill="#050505"/>
+  <rect width="1200" height="730" fill="#050505"/>
   <ellipse cx="1080" cy="74" rx="175" ry="105" fill="#f97316" opacity=".12" filter="url(#blur)"/>
   <ellipse cx="110" cy="370" rx="200" ry="115" fill="#1e3a8a" opacity=".19" filter="url(#blur)"/>
   <rect width="1200" height="430" fill="url(#grain)" opacity=".42"/>
+  <path d="M0 285 C210 245 300 330 490 282 S800 220 1200 275" fill="none" stroke="url(#accent)" stroke-opacity=".32" stroke-width="2"/>
+  <path d="M0 310 C240 270 330 350 550 300 S890 252 1200 300" fill="none" stroke="url(#accent)" stroke-opacity=".16" stroke-width="1"/>
+  <g fill="#cbd5e1" fill-opacity=".5">
+    <circle cx="912" cy="82" r="2"/><circle cx="1020" cy="210" r="2"/><circle cx="1090" cy="100" r="1.5"/>
+    <circle cx="850" cy="245" r="1.5"/><circle cx="1135" cy="252" r="2"/><circle cx="960" cy="285" r="1.5"/>
+  </g>
   <g font-family="Inter, Arial, Helvetica, sans-serif">
-    <text x="78" y="68" fill="#fff" font-size="11" font-weight="700" letter-spacing="3.2">TAOZHEOVO  /  GITHUB PROFILE</text>
+    <text x="92" y="68" fill="#fff" font-size="11" font-weight="700" letter-spacing="3.2">TAOZHEOVO  /  GITHUB PROFILE</text>
     <text x="1120" y="68" text-anchor="end" fill="#fff" fill-opacity=".42" font-size="10" font-weight="700" letter-spacing="2.5">PROJECTS  /  NOTES</text>
     <line x1="78" y1="94" x2="1122" y2="94" stroke="#fff" stroke-opacity=".17"/>
     <text x="62" y="251" fill="#fff" font-size="126" font-weight="800" letter-spacing="-8">ZACHARY</text>
@@ -22,6 +29,16 @@
     <text x="80" y="388" fill="#fff" fill-opacity=".54" font-size="10" font-weight="700" letter-spacing="3">BUILD  /  LEARN  /  SHARE</text>
     <text x="1120" y="388" text-anchor="end" fill="#fff" fill-opacity=".35" font-size="10" font-weight="700" letter-spacing="2">ISSUE  Nº 01</text>
   </g>
-  <line x1="78" y1="408" x2="1122" y2="408" stroke="#fff" stroke-opacity=".12"/>
+  <line x1="30" y1="430" x2="1170" y2="430" stroke="#fff" stroke-opacity=".13"/>
+  <ellipse cx="1110" cy="445" rx="170" ry="100" fill="#f97316" opacity=".09" filter="url(#blur)"/>
+  <ellipse cx="70" cy="720" rx="170" ry="92" fill="#1e3a8a" opacity=".16" filter="url(#blur)"/>
+  <line x1="350" y1="484" x2="350" y2="676" stroke="#fff" stroke-opacity=".14"/>
+  <g font-family="Inter, Arial, Helvetica, sans-serif">
+    <text x="48" y="569" fill="#fff" font-size="42" font-weight="800" letter-spacing="-1.5">RESEARCH</text>
+    <text x="48" y="604" fill="#fff" fill-opacity=".4" font-size="10" font-weight="700" letter-spacing="2.8">01  /  AREAS OF INTEREST</text>
+    <text x="395" y="521" fill="url(#fade)" font-size="23" font-weight="300">Research interests and current work will be added here.</text>
+    <text x="395" y="567" fill="url(#fade)" font-size="23" font-weight="300">Further details and selected work will appear here soon.</text>
+    <text x="395" y="650" fill="#fff" fill-opacity=".38" font-size="10" font-weight="700" letter-spacing="2.6">DETAILS COMING SOON</text>
+  </g>
+  <line x1="30" y1="705" x2="1170" y2="705" stroke="#fff" stroke-opacity=".13"/>
 </svg>
-
