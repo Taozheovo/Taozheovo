@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Research</title>
+  <desc id="desc">Midnight Editorial two-column research section with a black background, white typography, fine rules, and subtle orange and blue light leaks.</desc>
+  <defs>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="58"/></filter>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity=".48"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="#050505"/>
+  <ellipse cx="1110" cy="15" rx="170" ry="100" fill="#f97316" opacity=".09" filter="url(#blur)"/>
+  <ellipse cx="70" cy="290" rx="170" ry="92" fill="#1e3a8a" opacity=".16" filter="url(#blur)"/>
+  <line x1="30" y1="25" x2="1170" y2="25" stroke="#fff" stroke-opacity=".13"/>
+  <line x1="30" y1="275" x2="1170" y2="275" stroke="#fff" stroke-opacity=".13"/>
+  <line x1="350" y1="54" x2="350" y2="246" stroke="#fff" stroke-opacity=".14"/>
+  <g font-family="Inter, Arial, Helvetica, sans-serif">
+    <text x="48" y="139" fill="#fff" font-size="42" font-weight="800" letter-spacing="-1.5">RESEARCH</text>
+    <text x="48" y="174" fill="#fff" fill-opacity=".4" font-size="10" font-weight="700" letter-spacing="2.8">01  /  AREAS OF INTEREST</text>
+    <text x="395" y="91" fill="url(#fade)" font-size="23" font-weight="300">Research interests and current work will be added here.</text>
+    <text x="395" y="137" fill="url(#fade)" font-size="23" font-weight="300">Further details and selected work will appear here soon.</text>
+    <text x="395" y="220" fill="#fff" fill-opacity=".38" font-size="10" font-weight="700" letter-spacing="2.6">DETAILS COMING SOON</text>
+  </g>
+</svg>
