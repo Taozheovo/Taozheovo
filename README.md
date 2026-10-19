@@ -10,6 +10,16 @@ Hi, I'm **Zachary Tao**.
 
 A space for projects, experiments, and ideas in progress.
 
+<table>
+  <tr>
+    <td width="30%" valign="top"><h2>RESEARCH</h2></td>
+    <td width="70%" valign="top">
+      <p>Research interests and current work will be added here.</p>
+      <p><sub>DETAILS COMING SOON</sub></p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 02 &nbsp; / &nbsp; IN THIS SPACE
