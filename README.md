@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner-swiss-v2.svg?v=6851e7de" alt="Zachary Tao — typographic profile and focus cards" width="100%" />
+  <img src="./assets/profile-banner-swiss-v2.svg?v=eb547bcc" alt="Zachary Tao — typographic profile and focus cards" width="100%" />
 </div>
 
 
