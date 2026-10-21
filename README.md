@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner-swiss-v2.svg?v=clash-quote" alt="Zachary Tao — typographic profile and philosophy statement" width="100%" />
+  <img src="./assets/profile-banner-swiss-v2.svg?v=clash-quote-spacing" alt="Zachary Tao — typographic profile and philosophy statement" width="100%" />
 </div>
 
 
