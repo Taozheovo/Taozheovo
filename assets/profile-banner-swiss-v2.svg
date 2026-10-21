@@ -1,30 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1000" viewBox="0 0 1200 1000" role="img" aria-labelledby="title desc">
   <title id="title">Zachary Tao — Profile</title>
-  <desc id="desc">A Swiss editorial profile graphic with centered title-case lettering, offset echo layers, a Research section, and a short profile note.</desc>
+  <desc id="desc">A Swiss editorial profile graphic with centered title-case lettering and bold bilateral echo layers.</desc>
   <rect width="1200" height="1000" fill="#f2f2f2"/>
   <g font-family="Clash Display, Satoshi, Arial, Helvetica, sans-serif" fill="#111111">
     <text x="72" y="62" font-size="12" font-weight="700" letter-spacing="3">TAOZHEOVO  /  GITHUB PROFILE</text>
     <text x="1128" y="62" text-anchor="end" font-size="11" font-weight="500" letter-spacing="2">PROJECTS  /  NOTES</text>
   </g>
   <line x1="72" y1="88" x2="1128" y2="88" stroke="#111111" stroke-opacity=".15"/>
-
   <g text-anchor="middle" font-family="Clash Display, Satoshi, Arial, Helvetica, sans-serif" font-size="142" font-weight="700" letter-spacing="-8">
-    <text x="600" y="275" fill="#d9d9d9">Zachary</text>
-    <text x="601" y="272" fill="#d1d1d1">Zachary</text>
-    <text x="602" y="269" fill="#c9c9c9">Zachary</text>
-    <text x="603" y="266" fill="#bfbfbf">Zachary</text>
-    <text x="604" y="263" fill="#111111">Zachary</text>
-
-    <text x="600" y="420" fill="#d9d9d9">Tao</text>
-    <text x="601" y="417" fill="#d1d1d1">Tao</text>
-    <text x="602" y="414" fill="#c9c9c9">Tao</text>
-    <text x="603" y="411" fill="#bfbfbf">Tao</text>
-    <text x="604" y="408" fill="#111111">Tao</text>
+    <text x="588" y="275" fill="#d9d9d9">Zachary</text>
+    <text x="612" y="269" fill="#c9c9c9">Zachary</text>
+    <text x="576" y="275" fill="#d1d1d1">Zachary</text>
+    <text x="624" y="269" fill="#bfbfbf">Zachary</text>
+    <text x="600" y="272" fill="#111111">Zachary</text>
+    <text x="590" y="420" fill="#d9d9d9">Tao</text>
+    <text x="610" y="414" fill="#c9c9c9">Tao</text>
+    <text x="580" y="420" fill="#d1d1d1">Tao</text>
+    <text x="620" y="414" fill="#bfbfbf">Tao</text>
+    <text x="600" y="417" fill="#111111">Tao</text>
   </g>
-
   <text x="76" y="484" fill="#838282" font-family="Satoshi, Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="3">BUILD  /  LEARN  /  SHARE</text>
   <text x="1124" y="484" text-anchor="end" fill="#838282" font-family="Satoshi, Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2">ISSUE  Nº 01</text>
-
   <line x1="72" y1="530" x2="1128" y2="530" stroke="#111111" stroke-opacity=".16"/>
   <text x="72" y="605" fill="#111111" font-family="Clash Display, Satoshi, Arial, Helvetica, sans-serif" font-size="42" font-weight="700" letter-spacing="-2">RESEARCH</text>
   <text x="74" y="640" fill="#838282" font-family="Satoshi, Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="2.5">01  /  AREAS OF INTEREST</text>
@@ -34,12 +30,10 @@
     <text x="376" y="650" font-size="23" font-weight="500">Further details and selected work will appear here soon.</text>
     <text x="376" y="724" fill="#838282" font-size="11" font-weight="700" letter-spacing="2.5">DETAILS COMING SOON</text>
   </g>
-
   <line x1="72" y1="800" x2="1128" y2="800" stroke="#111111" stroke-opacity=".16"/>
   <text x="72" y="867" fill="#111111" font-family="Clash Display, Satoshi, Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="-1">02  /  IN THIS SPACE</text>
   <text x="376" y="862" fill="#111111" font-family="Satoshi, Arial, Helvetica, sans-serif" font-size="21" font-weight="500">Things I'm building and learning will find their way here.</text>
   <text x="376" y="902" fill="#111111" font-family="Satoshi, Arial, Helvetica, sans-serif" font-size="21" font-weight="500">Check back as the collection takes shape.</text>
-
   <line x1="72" y1="946" x2="1128" y2="946" stroke="#111111" stroke-opacity=".12"/>
   <text x="72" y="974" fill="#838282" font-family="Satoshi, Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="2">THANKS FOR STOPPING BY  ·  TAOZHEOVO</text>
 </svg>
