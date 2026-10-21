@@ -7,12 +7,12 @@
     <text x="1128" y="62" text-anchor="end" font-size="11" font-weight="500" letter-spacing="2">PROJECTS  /  NOTES</text>
   </g>
   <line x1="72" y1="88" x2="1128" y2="88" stroke="#111111" stroke-opacity=".15"/>
-  <g font-family="Clash Display, Satoshi, Arial, Helvetica, sans-serif" font-size="142" font-weight="700" letter-spacing="-8">
-    <text x="72" y="264" fill="#d9d9d9">Zachary</tspan></text>
-    <text x="79" y="257" fill="#d1d1d1">Zachar<tspan dx="12">y</tspan></text>
-    <text x="86" y="250" fill="#c9c9c9">Zachary</tspan></text>
-    <text x="93" y="243" fill="#bfbfbf">Zachary</tspan></text>
-    <text x="100" y="236" fill="#111111">Zachary</tspan></text>
+  <g font-family="Clash Display, Satoshi, Arial, Helvetica, sans-serif" font-size="142" font-weight="700" letter-spacing="-4">
+    <text x="72" y="264" fill="#d9d9d9">Zachary</text>
+    <text x="79" y="257" fill="#d1d1d1">Zachary</text>
+    <text x="86" y="250" fill="#c9c9c9">Zachary</text>
+    <text x="93" y="243" fill="#bfbfbf">Zachary</text>
+    <text x="100" y="236" fill="#111111">Zachary</text>
     <text x="556" y="460" fill="#d9d9d9">TAO</text>
     <text x="563" y="453" fill="#d1d1d1">TAO</text>
     <text x="570" y="446" fill="#c9c9c9">TAO</text>
