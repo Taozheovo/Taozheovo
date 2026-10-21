@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner-swiss-v2.svg" alt="Zachary Tao — Swiss editorial profile with typographic echo stack and research section" width="100%" />
+  <img src="./assets/profile-banner-swiss-v2.svg?v=compact" alt="Zachary Tao — centered typographic profile banner" width="100%" />
 </div>
 
-<p align="center"><sub><a href="https://github.com/Taozheovo">EXPLORE THE PROFILE&nbsp; ↗</a></sub></p>
+<p align="center"><sub><a href="https://github.com/Taozheovo">Explore the Profile&nbsp; ↗</a></sub></p>
