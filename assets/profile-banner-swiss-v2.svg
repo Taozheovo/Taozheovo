@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1000" viewBox="0 0 1200 1000" role="img" aria-labelledby="title desc">
   <title id="title">Zachary Tao — Profile</title>
-  <desc id="desc">A Swiss editorial profile graphic with centered title-case lettering and four progressively enlarged echo layers.</desc>
+  <desc id="desc">A Swiss editorial profile graphic with title-case lettering and four progressively enlarged echo layers offset up and left.</desc>
   <rect width="1200" height="1000" fill="#f2f2f2"/>
   <g font-family="Clash Display, Satoshi, Arial, Helvetica, sans-serif" fill="#111111">
     <text x="72" y="62" font-size="12" font-weight="700" letter-spacing="3">TAOZHEOVO  /  GITHUB PROFILE</text>
@@ -8,15 +8,15 @@
   </g>
   <line x1="72" y1="88" x2="1128" y2="88" stroke="#111111" stroke-opacity=".15"/>
   <g text-anchor="middle" font-family="Clash Display, Satoshi, Arial, Helvetica, sans-serif" font-size="142" font-weight="700" letter-spacing="-8">
-    <text x="600" y="257.8" font-size="170.4" fill="#d9d9d9" opacity=".42" pointer-events="none">Zachary</text>
-    <text x="600" y="261.35" font-size="163.3" fill="#d1d1d1" opacity=".42" pointer-events="none">Zachary</text>
-    <text x="600" y="264.9" font-size="156.2" fill="#c9c9c9" opacity=".42" pointer-events="none">Zachary</text>
-    <text x="600" y="268.45" font-size="149.1" fill="#bfbfbf" opacity=".42" pointer-events="none">Zachary</text>
+    <text x="577.28" y="235.08" font-size="170.4" fill="#d9d9d9" opacity=".42" pointer-events="none">Zachary</text>
+    <text x="582.96" y="244.31" font-size="163.3" fill="#d1d1d1" opacity=".42" pointer-events="none">Zachary</text>
+    <text x="588.64" y="253.54" font-size="156.2" fill="#c9c9c9" opacity=".42" pointer-events="none">Zachary</text>
+    <text x="594.32" y="262.77" font-size="149.1" fill="#bfbfbf" opacity=".42" pointer-events="none">Zachary</text>
     <text x="600" y="272" fill="#111111">Zachary</text>
-    <text x="600" y="402.8" font-size="170.4" fill="#d9d9d9" opacity=".42" pointer-events="none">Tao</text>
-    <text x="600" y="406.35" font-size="163.3" fill="#d1d1d1" opacity=".42" pointer-events="none">Tao</text>
-    <text x="600" y="409.9" font-size="156.2" fill="#c9c9c9" opacity=".42" pointer-events="none">Tao</text>
-    <text x="600" y="413.45" font-size="149.1" fill="#bfbfbf" opacity=".42" pointer-events="none">Tao</text>
+    <text x="577.28" y="380.08" font-size="170.4" fill="#d9d9d9" opacity=".42" pointer-events="none">Tao</text>
+    <text x="582.96" y="389.31" font-size="163.3" fill="#d1d1d1" opacity=".42" pointer-events="none">Tao</text>
+    <text x="588.64" y="398.54" font-size="156.2" fill="#c9c9c9" opacity=".42" pointer-events="none">Tao</text>
+    <text x="594.32" y="407.77" font-size="149.1" fill="#bfbfbf" opacity=".42" pointer-events="none">Tao</text>
     <text x="600" y="417" fill="#111111">Tao</text>
   </g>
   <text x="76" y="484" fill="#838282" font-family="Satoshi, Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="3">BUILD  /  LEARN  /  SHARE</text>
