@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner-swiss-v2.svg?v=89c93799" alt="Zachary Tao — typographic profile and focus cards" width="100%" />
+  <img src="./assets/profile-banner-swiss-v2.svg?v=3d563de6" alt="Zachary Tao — Doing my best. BCI master's thesis; computer vision for agriculture; Assistant Researcher at Hubei Academy of Agricultural Sciences." width="100%" />
 </div>
 
 
